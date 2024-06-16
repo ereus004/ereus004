@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python and last versions of C++
 - 💞️ I’m looking to collaborate on C++ developing and multithreading applications
 - 📫 How to reach me here or in a pub
-- 😄 Pronouns: he
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a huge fan of science fiction novels
 
 <!---
